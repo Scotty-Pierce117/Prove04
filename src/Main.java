@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Hello, my name is Scott!");
         System.out.println("Hello, my name is Your Divine Ruler!");
+        System.out.println("Hello Scott, I am Rochak");
     }
 }
